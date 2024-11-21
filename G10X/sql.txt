@@ -1,0 +1,2 @@
+Q1. Create a table product (pid , pname, price, owner_name, discount) -------> parent table
+Q2. create table customer(cid,customer_name, mobile_no, email_id,loc) ---> child table
